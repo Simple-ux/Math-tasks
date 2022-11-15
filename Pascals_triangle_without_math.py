@@ -15,6 +15,7 @@ def row_counter(n, row = [1]):
 row_counter(10)
 
 # result
+#                   [1]
 #                  [1, 1]
 #                 [1, 2, 1]
 #                [1, 3, 3, 1]
